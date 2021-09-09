@@ -1,5 +1,6 @@
 {
     "name": "lmomar-cap/excelbundle",
+    "version": "dev-custom-omar",
     "description": "This is a Symfony2 Bundle helps you to read and write Excel files (including pdf, xlsx, odt), thanks to the PHPExcel library",
     "type": "symfony-bundle",
     "authors": [
